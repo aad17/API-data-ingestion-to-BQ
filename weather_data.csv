@@ -1,2 +1,3 @@
 weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,rain.1h,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
 "[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",stations,10000,1728973935,19800,1259229,Pune,200,73.8567,18.5204,302.87,307.74,302.87,302.87,1010,71,1010,949,2.9,94,3.66,0.15,77,2,2091523,IN,1728953893,1728996125
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",stations,10000,1728976551,19800,1259229,Pune,200,73.8567,18.5204,303.43,308.37,303.43,303.43,1010,68,1010,949,2.9,94,3.66,0.15,77,2,2091523,IN,1728953893,1728996125
